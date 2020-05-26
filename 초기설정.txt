@@ -1,0 +1,3 @@
+git config --global user.name "KEJ"
+git config --global user.email "eunjung200289@gmail.com"
+git config --global core.editor vi
