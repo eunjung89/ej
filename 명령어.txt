@@ -1,6 +1,10 @@
 git log
 git commit --amend(되돌리기)
 git checkout(commit 전으로 되돌리기)
+git checkout 브랜치 이름(브랜치 생성&변환)
+git branch "브랜치명"(브랜치
+git checkout 브랜치 이름
+
 
 git config --global user.name "KEJ"
 git config --global user.email "eunjung200289@gmail.com"
